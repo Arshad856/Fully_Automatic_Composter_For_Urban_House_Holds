@@ -48,7 +48,9 @@ This project introduces a smart, compact, home-friendly composting system that a
 - Flutter mobile application  
 
 ## 🖼️ System Diagrams  
-(Add your images in the `images/` folder and update paths)
+
+### 📌 Actual Machine with Key Componenets
+![Machine With Key Components](images/actual_machine.png)
 
 ### 📌 Architecture Diagram
 ![Architecture Diagram](images/Architecture.png)
@@ -58,6 +60,9 @@ This project introduces a smart, compact, home-friendly composting system that a
 
 ### 📌 Mechanical Design
 ![Mechanical Design](images/mechanical.png)
+
+### 📌 Actual Machine with Dimensions
+![Machine With Dimensions](images/machine_w_dimensions.png)
 
 ## 📡 IoT Workflow
 
