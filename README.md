@@ -68,12 +68,12 @@ This project introduces a smart, compact, home-friendly composting system that a
 5. ESP32-S3 automatically adjusts actuators  
 
 ## 📦 Repository Structure
-📁 firmware/
-📁 mobile-app/
-📁 mechanical-design/
-📁 circuit-design/
-📁 documentation/
-README.md
+- 📁 firmware/
+- 📁 mobile-app/
+- 📁 mechanical-design/
+- 📁 circuit-design/
+- 📁 documentation/
+- README.md
 
 ## 🔧 Setup Instructions
 
@@ -112,8 +112,14 @@ README.md
 - **M.H.H. Ahmad**  
 - **A.A.M. Nafrees**
 
-## 👥 Supervisors
+## 🎓 Supervisors
+- **Dr. B.L. Sanjaya Thilakarathne**
+- *Supervisor & Head, Department of Instrumentation and Automation Technology*
 
+- **Mr. U.V. Hiran Sameera**
+- *Co-Supervisor, Lecturer, Department of Instrumentation and Automation Technology*
 
-
-Faculty of Technology, University of Colombo
+## 🏫 Institution
+- **Department of Instrumentation and Automation Technology**
+-  **Faculty of Technology**
+-  **University of Colombo**
