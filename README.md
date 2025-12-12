@@ -86,7 +86,7 @@ Fully_Automatic_Composter_For_Urban_House_Holds/
 - [📁 mechanical-design/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/mechanical-design)
 - [📁 circuit-design/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/circuit-design)
 - [📁 documentation/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main//documentation)
-- [📄 README.md](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/README.md)
+- [📄 README.md](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/blob/main/README.md)
 
 ## 🔧 Setup Instructions
 
