@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704175529601",
+    "firebase_url": "https://composter-fyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "composter-fyp",
+    "storage_bucket": "composter-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704175529601:android:77db8033c5b981b4b7f780",
+        "android_client_info": {
+          "package_name": "com.example.compgenie_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704175529601-k8ua3tos2drb0hb646qk3fm23be9t9dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-TC_uz5x_iLkzOoI_bLv6NFJ9KGUz00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704175529601-k8ua3tos2drb0hb646qk3fm23be9t9dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
