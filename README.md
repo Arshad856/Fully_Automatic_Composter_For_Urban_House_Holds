@@ -51,7 +51,7 @@ This project introduces a smart, compact, home-friendly composting system that a
 (Add your images in the `images/` folder and update paths)
 
 ### 📌 Architecture Diagram
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 ### 📌 Workflow Diagram
 ![Workflow Diagram](images/workflow.png)
