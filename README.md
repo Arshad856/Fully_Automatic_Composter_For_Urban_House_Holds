@@ -68,12 +68,25 @@ This project introduces a smart, compact, home-friendly composting system that a
 5. ESP32-S3 automatically adjusts actuators  
 
 ## 📦 Repository Structure
-- 📁 firmware/
-- 📁 mobile-app/
-- 📁 mechanical-design/
-- 📁 circuit-design/
-- 📁 documentation/
-- README.md
+
+```
+Fully_Automatic_Composter_For_Urban_House_Holds/
+├── firmware/
+├── mobile-app/
+├── mechanical-design/
+├── circuit-design/
+├── documentation/
+└── README.md
+```
+
+### 🔗 Clickable Directory Links (GitHub Absolute)
+
+- [📁 firmware/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/firmware)
+- [📁 mobile-app/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/mobile-app)
+- [📁 mechanical-design/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/mechanical-design)
+- [📁 circuit-design/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main/circuit-design)
+- [📁 documentation/](https://github.com/Arshad856/Fully_Automatic_Composter_For_Urban_House_Holds/tree/main//documentation)
+- [📄 README.md](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/README.md)
 
 ## 🔧 Setup Instructions
 
